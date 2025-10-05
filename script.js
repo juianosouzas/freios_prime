@@ -1,9 +1,9 @@
 const produtos = [
-    { nome: "Sapata de Freio Dianteira", categoria: "sapata", imagem: src="produtos/Sapata-de-freio.jpg", descricao: "Durabilidade e segurança para veículos leves." },
-    { nome: "Sapata de Freio Traseira", categoria: "sapata", imagem: src="produtos/SapataT.png", descricao: "Durabilidade e segurança para veículos leves." },
-	{ nome: "Sapata de Freio Dianteira", categoria: "sapata", imagem: src="produtos/Sapata-de-freio.jpg", descricao: "Durabilidade e segurança para veículos leves." },
-	{ nome: "Sapata de Freio Dianteira", categoria: "sapata", imagem: src="produtos/Sapata-de-freio.jpg", descricao: "Durabilidade e segurança para veículos leves." },
-    { nome: "Sapata de Freio Dianteira", categoria: "sapata", imagem: src="produtos/Sapata-de-freio.jpg", descricao: "Durabilidade e segurança para veículos leves." }
+    { nome: "Sapata de Freio Dianteira", categoria: "sapata", imagem: src="Sapata-de-freio.jpg", descricao: "Durabilidade e segurança para veículos leves." },
+    { nome: "Sapata de Freio Traseira", categoria: "sapata", imagem: src="SapataT.png", descricao: "Durabilidade e segurança para veículos leves." },
+	{ nome: "Sapata de Freio Dianteira", categoria: "sapata", imagem: src="Sapata-de-freio.jpg", descricao: "Durabilidade e segurança para veículos leves." },
+	{ nome: "Sapata de Freio Dianteira", categoria: "sapata", imagem: src="Sapata-de-freio.jpg", descricao: "Durabilidade e segurança para veículos leves." },
+    { nome: "Sapata de Freio Dianteira", categoria: "sapata", imagem: src="Sapata-de-freio.jpg", descricao: "Durabilidade e segurança para veículos leves." }
 	
 ];
 
